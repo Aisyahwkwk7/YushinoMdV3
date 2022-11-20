@@ -40,13 +40,13 @@ const readMore = more.repeat(4001)
 
 global.owner = [
 ['6282376267531', 'Aisyah', true],
-['6281361281833', 'Aldi', true]
+[ '6285950091241 ' , 'Aldi' , benar ]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283838186170'
-global.nomorown = '6281361281833'
-global.nomorown1 = '6281361281833'
+global . nomorbot  =  '6282376267531 '
+global . nomorown  =  '6285950091241 '
+global . nomorown1  =  '6285950091241 '
 global.nomorown2 = '6282376267531'
 global.nomorwa = '0'
 
@@ -89,7 +89,7 @@ global.povo = '-'
 global.pgopay = '0813 6128 1833'
 global.plinkaja = '-' //link aja
 global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
+global . ppulsa2  =  '6285950091241 ' 
 global.psaweria = 'https://saweria.co/hyuura'
 
 
